@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background: linear-gradient(#Eabsolute1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    text-shadow: 2px s;
+    font-size: 20px;
+}
+
+#Welcome {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+#img1 {
+    border-radius: 50%;
+    width: 175px;
+    margin-bottom: 50px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 490px;
+}
+
+.Welcome {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    right: 0;
+    top: 0;
+    opacity: 0.83;
+    background-color: linear-gradient(#24e09e 0%, #bc97bd 100%);
+}
